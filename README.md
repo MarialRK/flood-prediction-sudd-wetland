@@ -206,7 +206,7 @@ Actual Flood          0        8
 **Daniel Marial Reng Kudum**  
 BSc. Software Engineering  
 African Leadership University (ALU)  
-Email: [Your email]  
+Email: d.kudum@alustudent.com   
 GitHub: [MarialRK](https://github.com/MarialRK)
 
 ---
